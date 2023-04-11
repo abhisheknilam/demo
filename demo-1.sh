@@ -2,4 +2,6 @@ date
 ls
 date
 ls
-mkdir demo-12
+cd demo-12 
+date
+
